@@ -21,7 +21,15 @@ Program to analyze data, probably from sports but potentially also eSports and o
 
 ## Data Sources
 - Whoscored (Free but manual?)
+- https://www.api-football.com
+    - https://rapidapi.com/GiulianoCrescimbeni/api/football98/tutorials/how-to-use-the-api-(python)
+    - https://medium.com/geekculture/how-to-get-excellent-football-data-for-free-with-api-football-1b37d2db5f71
 - Sofascore
+- https://www.football-data.org/pricing
+- fivethirtyeight
+- clubELO
+- https://datahub.io/collections/football
+- https://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/
 - FBRef
 - Wyscout
 - Soccerment
